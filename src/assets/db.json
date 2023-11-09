@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Land Rover",
+      "userId": 88,
+      "body": "Cum sociis natoque penatibus et magnis dis parturient montes, ."
+    },
+    {
+      "id": 2,
+      "title": "Cadillac",
+      "userId": 739,
+      "body": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.o."
+    },
+    {
+      "id": 3,
+      "title": "Porsche",
+      "userId": 2,
+      "body": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
+    },
+    {
+      "id": 4,
+      "title": "Isuzu",
+      "userId": 73076,
+      "body": "Fusce consequat. Nulla nisl. Nunc nisl."
+    },
+    {
+      "id": 5,
+      "title": "Volkswagen",
+      "userId": 707,
+      "body": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+    },
+    {
+      "id": 6,
+      "title": "Chevrolet",
+      "userId": 6,
+      "body": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+    },
+    {
+      "id": 7,
+      "title": "Chevrolet",
+      "userId": 72083,
+      "body": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+    },
+    {
+      "id": 8,
+      "title": "Volvo",
+      "userId": 5674,
+      "body": "In congue. Etiam justo. Etiam pretium iaculis justo."
+    },
+    {
+      "id": 9,
+      "title": "GMC",
+      "userId": 98,
+      "body": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+    },
+    {
+      "id": 10,
+      "title": "BMW",
+      "userId": 6657,
+      "body": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+    },
+    {
+      "title": "LaPaFerrari",
+      "userId": 222,
+      "body": "Super duper Car",
+      "id": 14
+    }
+  ]
+}
